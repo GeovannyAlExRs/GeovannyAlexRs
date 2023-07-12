@@ -2,47 +2,26 @@
 
 <img alt="Geovanny Magallan" src="https://firebasestorage.googleapis.com/v0/b/geovanny-m.appspot.com/o/img%2Fbanner%2Fbn_developerGM1.png?alt=media&token=d093fbd9-3d1e-4bd0-9c62-adc1e6dd4519"/>
 
-<!--
-**GeovannyAlExRs/GeovannyAlexRs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--  
-<h1 align="center"></h1>
--->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=19F79C&background=F8F8F8&center=true&vCenter=true&width=500&lines=%7BMobile_Developer...%7D;%3CFront_End_Developer%2F%3E;%5BBack_End_Developer%5D;%2F**Computer_Science_Student**%2F%2F;%2F%2FTechnology...%3C3+*.*" alt="Typing SVG" /></a>
 </p>
 
-
 <br>
 
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## ### 👨🏻‍💻 &nbsp;** About Me **
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 💡 &nbsp;I like to develop software solutions.
+- 🎓 &nbsp;Graduate in Systems Engineering.
+- 🔭 &nbsp;I’m currently working as a Software Developer.
+- 🤔 &nbsp;I’m looking for help with Flutter.
+- 😄 &nbsp;Currently learning Mobile Development by Self.
+- 📫 &nbsp;How to reach me: gmagallan.94@gmail.com
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
