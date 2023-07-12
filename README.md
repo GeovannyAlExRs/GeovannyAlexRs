@@ -32,37 +32,37 @@
 
 - Programming languages:
     
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-    ![Android](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Typescript](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Dart](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=f8f8f8)
+    ![Android](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
+    ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+    ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 
 <br>   
     
 - Front-End Development:
 
-    ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-    ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-    ![SASS](https://img.shields.io/badge/sass-05122A?style=flat&logo=sass)
+    ![HTML5](https://img.shields.io/badge/-Html5-05122A?style=flat&logo=HTML5)
+    ![CSS3](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=CSS3)
+    ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-    ![Angular](https://img.shields.io/badge/angular-05122A?style=flat&logo=angular)
-    ![Flutter](https://img.shields.io/badge/flutter-05122A?style=flat&logo=flutter)
+    ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+    ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 
 <br>
 
 - Responive Design (Framework):
 
-    ![Material Angular](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=f8f8f8)\
+    ![Material Angular](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular)
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=f8f8f8)
 
 <br>
 
 - Data Base:
 
-    ![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase&logoColor=f8f8f8)
-    ![SQL Server](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-    ![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=f8f8f8)
-    ![Posgrest](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+    ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=f8f8f8)
+    ![SQL Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat&logo=microsoft-sql-server)
+    ![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=f8f8f8)
+    ![Posgrest](https://badgen.net/badge/icon/-Postgresql-05122A?icon=postgresql&label)
     
 <br>
 
@@ -70,16 +70,23 @@
 
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-    ![Google](https://img.shields.io/badge/google-05122A?style=flat&logo=google)
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-    ![IntelliJ](https://img.shields.io/badge/Terminal-05122A?style=flat&logo=gnu-bash&logoColor=f8f8f8)
+    ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
+    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+    ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
+    ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)
     ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=f8f8f8)
-    ![Android Studio](https://img.shields.io/badge/markdown-05122A?style=flat&logo=markdown&logoColor=white)
-    ![Json](https://img.shields.io/badge/json-05122A?style=flat&logo=json)
-    ![Selenium](https://img.shields.io/badge/selenium-05122A?style=flat&logo=selenium)
+    ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
+    ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity)
+    ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
+    ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=maven)
+    ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)
+    ![Libraries](https://img.shields.io/badge/-Libraries-05122A?style=flat&logo=libraries&label)
+    ![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
+    ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+    ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
     ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+    ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+    ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoftoffice)
 
 </p>
 
