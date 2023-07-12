@@ -14,12 +14,12 @@
 
 <br>
 
-💡 &nbsp;I like to develop software solutions.
-🎓 &nbsp;Graduate in Systems Engineering.
-🔭 &nbsp;I’m currently working as a Software Developer.
-😄 &nbsp;Currently learning Mobile Development by Self.
-🤔 &nbsp;I’m looking for help with Flutter.
-📫 &nbsp;How to reach me: gmagallan.94@gmail.com
+- 💡 &nbsp;I like to develop software solutions.
+- 🎓 &nbsp;Graduate in Systems Engineering.
+- 🔭 &nbsp;I’m currently working as a Software Developer.
+- 😄 &nbsp;Currently learning Mobile Development by Self.
+- 🤔 &nbsp;I’m looking for help with Flutter.
+- 📫 &nbsp;How to reach me: gmagallan.94@gmail.com
 
 <br>
 
