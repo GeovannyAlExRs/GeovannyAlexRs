@@ -52,17 +52,17 @@
 
 - Responive Design (Framework):
 
-    ![Material Angular](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+    ![Material Angular](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=f8f8f8)\
 
 <br>
 
 - Data Base:
 
-    ![Firebase](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Posgrest](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+    ![SQL Server](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+    ![MySQL](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+    ![Posgrest](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
     
 <br>
 
@@ -70,14 +70,14 @@
 
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-05122A?style=flat&logo=google)
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-    ![IntelliJ](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![IntelliJ](https://img.shields.io/badge/Terminal-05122A?style=flat&logo=gnu-bash&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-    ![Android Studio](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Android Studio](https://img.shields.io/badge/markdown-05122A?style=flat&logo=markdown&logoColor=white)   
     
-    ![Json](https://img.shields.io/badge/json-%23000000?style=flat&logo=json)
-    ![Selenium](https://img.shields.io/badge/selenium-%2343B02A?style=flat&logo=selenium)
+    ![Json](https://img.shields.io/badge/json-05122A?style=flat&logo=json)
+    ![Selenium](https://img.shields.io/badge/selenium-05122A?style=flat&logo=selenium)
     ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
