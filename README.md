@@ -53,16 +53,16 @@
 - Responive Design (Framework):
 
     ![Material Angular](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=f8f8f8)
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
 <br>
 
 - Data Base:
 
-    ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=f8f8f8)
+    ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
     ![SQL Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat&logo=microsoft-sql-server)
-    ![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=f8f8f8)
-    ![Posgrest](https://badgen.net/badge/icon/-Postgresql-05122A?icon=postgresql&label)
+    ![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)
+    ![Posgrest](https://badgen.net/badge/-Postgresql-05122A?icon=postgresql&label)
     
 <br>
 
@@ -71,16 +71,15 @@
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
     ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
-    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-    ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
+    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code) <!--&logoColor=007ACC-->
+    ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
     ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)
-    ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=f8f8f8)
+    ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)
     ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
     ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity)
     ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
     ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=maven)
     ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)
-    ![Libraries](https://img.shields.io/badge/-Libraries-05122A?style=flat&logo=libraries&label)
     ![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
     ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
     ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
