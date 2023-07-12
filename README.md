@@ -62,7 +62,7 @@
     ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
     ![SQL Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat&logo=microsoft-sql-server)
     ![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)
-    ![Posgrest](https://badgen.net/badge/-Postgresql-05122A?icon=postgresql&label)
+    ![Posgrest](https://badgen.net/badge/-Postgresql-05122A?icon=postgresql)
     
 <br>
 
@@ -71,7 +71,7 @@
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
     ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
-    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code) <!--&logoColor=007ACC-->
+    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
     ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
     ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)
     ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)
