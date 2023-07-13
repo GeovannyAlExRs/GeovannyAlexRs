@@ -13,6 +13,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+
 - 💡 &nbsp;I like to develop software solutions.
 - 🎓 &nbsp;Graduate in Systems Engineering.
 - 🔭 &nbsp;I’m currently working as a Software Developer.
