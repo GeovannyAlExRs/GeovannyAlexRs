@@ -62,7 +62,7 @@
     ![Firebase](https://img.shields.io/badge/-Firebase-10334c?style=flat&logo=firebase)
     ![SQL Server](https://img.shields.io/badge/-Sql%20Server-10334c?style=flat&logo=microsoft-sql-server)
     ![MySQL](https://img.shields.io/badge/-Mysql-10334c?style=flat&logo=mysql&logoColor=f8f8f8)
-    ![Posgrest](https://badgen.net/badge/-Postgresql-10334c?style=flat&logo=postgresql)
+    ![Posgrest](https://img.shields.io/badge/-Postgresql-10334c?style=flat&logo=postgresql&logoColor=f8f8f8)
     
 <br>
 
