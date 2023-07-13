@@ -35,7 +35,7 @@
     ![Java](https://img.shields.io/badge/-Java-10334c?style=flat&logo=Java&logoColor=f8f8f8)
     ![Android](https://img.shields.io/badge/-Android%20Studio-10334c?style=flat&logo=android-studio)
     ![Typescript](https://img.shields.io/badge/-Typescript-10334c?style=flat&logo=typescript)
-    ![Dart](https://img.shields.io/badge/-Dart-10334c?style=flat&logo=dart)
+    ![Dart](https://img.shields.io/badge/-Dart-10334c?style=flat&logo=dart&logoColor=27a2f6)
 
 <br>   
     
@@ -46,7 +46,7 @@
     ![SASS](https://img.shields.io/badge/-Sass-10334c?style=flat&logo=sass)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-10334c?style=flat&logo=javascript)
     ![Angular](https://img.shields.io/badge/-Angular-10334c?style=flat&logo=angular&logoColor=ff2a5e)
-    ![Flutter](https://img.shields.io/badge/-Flutter-10334c?style=flat&logo=flutterr&logoColor=27a2f6)
+    ![Flutter](https://img.shields.io/badge/-Flutter-10334c?style=flat&logo=flutter&logoColor=27a2f6)
 
 <br>
 
