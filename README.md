@@ -116,10 +116,10 @@
 ## 🤝🏻 &nbsp; Connect with Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/geovanny-magallan-59ab5b99/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-208fd8?style=flat&logo=Linkedin&logoColor=f8f8f8"/></a>
-    <a href="mailto:gmagallan.94@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=f8f8f8"/></a>
-    <a href="https://www.instagram.com/geovanny_alex_rs/"><img src="https://img.shields.io/badge/-@adityavs__-ff2a5e?style=flat&logo=Instagram&logoColor=f8f8f8"/></a>
-    <a href="https://twitter.com/GeovannyAlexRs"><img src="https://img.shields.io/badge/-@AVS1508-20a4d8?style=flat&logo=twitter&logoColor=f8f8f8"/></a>
+    <a href="https://www.linkedin.com/in/geovanny-magallan-59ab5b99/"><img src="https://img.shields.io/badge/-Geovanny%20Magallan-208fd8?style=flat&logo=Linkedin&logoColor=f8f8f8"/></a>
+    <a href="mailto:gmagallan.94@gmail.com"><img src="https://img.shields.io/badge/-Geovanny%20Magallan-D14836?style=flat&logo=Gmail&logoColor=f8f8f8"/></a>
+    <a href="https://www.instagram.com/geovanny_alex_rs/"><img src="https://img.shields.io/badge/-@geovanny_alex_rs-ff2a5e?style=flat&logo=Instagram&logoColor=f8f8f8"/></a>
+    <a href="https://twitter.com/GeovannyAlexRs"><img src="https://img.shields.io/badge/@GeovannyAlexRs-20a4d8?style=flat&logo=twitter&logoColor=f8f8f8"/></a>
 </p>
 
 -----
