@@ -32,60 +32,60 @@
 
 - Programming languages:
     
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=f8f8f8)
-    ![Android](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
-    ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-    ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+    ![Java](https://img.shields.io/badge/-Java-10334c?style=flat&logo=Java&logoColor=f8f8f8)
+    ![Android](https://img.shields.io/badge/-Android%20Studio-10334c?style=flat&logo=android-studio)
+    ![Typescript](https://img.shields.io/badge/-Typescript-10334c?style=flat&logo=typescript)
+    ![Dart](https://img.shields.io/badge/-Dart-10334c?style=flat&logo=dart)
 
 <br>   
     
 - Front-End Development:
 
-    ![HTML5](https://img.shields.io/badge/-Html5-05122A?style=flat&logo=HTML5)
-    ![CSS3](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=CSS3)
-    ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-    ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
-    ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+    ![HTML5](https://img.shields.io/badge/-Html5-10334c?style=flat&logo=HTML5)
+    ![CSS3](https://img.shields.io/badge/-Css3-10334c?style=flat&logo=CSS3&logoColor=20a4d8)
+    ![SASS](https://img.shields.io/badge/-Sass-10334c?style=flat&logo=sass)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-10334c?style=flat&logo=javascript)
+    ![Angular](https://img.shields.io/badge/-Angular-10334c?style=flat&logo=angular&logoColor=ff2a5e)
+    ![Flutter](https://img.shields.io/badge/-Flutter-10334c?style=flat&logo=flutterr&logoColor=27a2f6)
 
 <br>
 
 - Responive Design (Framework):
 
-    ![Material Angular](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+    ![Material Angular](https://img.shields.io/badge/-Angular%20Material-10334c?style=flat&logo=angular)
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-10334c?style=flat&logo=bootstrap)
 
 <br>
 
 - Data Base:
 
-    ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-    ![SQL Server](https://img.shields.io/badge/-Sql%20Server-05122A?style=flat&logo=microsoft-sql-server)
-    ![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)
-    ![Posgrest](https://badgen.net/badge/-Postgresql-05122A?icon=postgresql)
+    ![Firebase](https://img.shields.io/badge/-Firebase-10334c?style=flat&logo=firebase)
+    ![SQL Server](https://img.shields.io/badge/-Sql%20Server-10334c?style=flat&logo=microsoft-sql-server)
+    ![MySQL](https://img.shields.io/badge/-Mysql-10334c?style=flat&logo=mysql&logoColor=f8f8f8)
+    ![Posgrest](https://badgen.net/badge/-Postgresql-10334c?style=flat&logo=postgresql)
     
 <br>
 
 - Softwares & Tools:
 
-    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-    ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
-    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-    ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
-    ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)
-    ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)
-    ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
-    ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity)
-    ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
-    ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=maven)
-    ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)
-    ![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
-    ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-    ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
-    ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
-    ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-    ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoftoffice)
+    ![Git](https://img.shields.io/badge/-Git-10334c?style=flat&logo=git)
+    ![GitHub](https://img.shields.io/badge/-GitHub-10334c?style=flat&logo=github)
+    ![Google](https://img.shields.io/badge/-Google-10334c?style=flat&logo=google&logoColor=ff2a5e)
+    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-10334c?style=flat&logo=visual-studio-code&logoColor=007ACC)
+    ![Android](https://img.shields.io/badge/-Android-10334c?style=flat&logo=android)
+    ![IntelliJ](https://img.shields.io/badge/-IntelliJ-10334c?style=flat&logo=jetbrains)
+    ![Eclipse](https://img.shields.io/badge/-Eclipse-10334c?style=flat&logo=eclipse-ide)
+    ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-10334c?style=flat&logo=spring-boot)
+    ![Spring Security](https://img.shields.io/badge/-Spring%20Security-10334c?style=flat&logo=springsecurity)
+    ![Spring](https://img.shields.io/badge/-Spring-10334c?style=flat&logo=spring)
+    ![Maven](https://img.shields.io/badge/-Maven-10334c?style=flat&logo=maven)
+    ![Json](https://img.shields.io/badge/-Json-10334c?style=flat&logo=json)
+    ![TensorFlow](https://img.shields.io/badge/-Tensorflow-10334c?style=flat&logo=tensorflow)
+    ![Postman](https://img.shields.io/badge/-Postman-10334c?style=flat&logo=postman)
+    ![Selenium](https://img.shields.io/badge/-Selenium-10334c?style=flat&logo=selenium)
+    ![Illustrator](https://img.shields.io/badge/-Illustrator-10334c?style=flat&logo=adobe-illustrator)
+    ![Figma](https://img.shields.io/badge/-Figma-10334c?style=flat&logo=figma)
+    ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-10334c?style=flat&logo=microsoftoffice)
 
 </p>
 
